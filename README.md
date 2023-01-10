@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jai-Williams
-- 👀 I’m interested in Programming and Networking
+- 👀 I’m interested in Software Development, Web Developmeent and Networking
 - 📫 Reach me at jai_williams@live.com
 
 <!---
